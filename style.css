@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+div{
+   
+    text-align: center;
+}
+
+img{
+    position: absolute;
+    left: 42%;
+    margin-top: 50px;
+    width: 10em;
+    
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    color: white;
+    border-radius: 2em;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.btn1{
+    background-color: olivedrab;
+}
+
+.btn2{
+    background-color: orange;
+}
+
+.btn3{
+    background-color: red;
+}
